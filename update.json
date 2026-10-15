@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": "New ZPVP build",
   "mod": {
     "url": "zpvp.jar",
-    "sha256": "54ad5ea40fc56fea93023356d778e2fe6fff675753819e11f30850b149c6b1c0"
+    "sha256": "94fdda6b39c28df32a0713236112edc03913486db4e4498ee1779ce3c8c11176"
   }
 }
